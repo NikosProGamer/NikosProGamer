@@ -1,4 +1,4 @@
-# nikoszz <img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="nikosszzz" /><br><
+# nikoszz <img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="nikosszzz" /><br>
 
 **About me**
 
