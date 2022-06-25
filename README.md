@@ -31,3 +31,6 @@
 <a href="https://twitter.com/nikosszzzz">
   <img align="right" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/nikosszzz/nikosszzz/master/assets/twitter.svg" />
 </a>
+<a href="https://discord.com/users/327065865201909762">
+  <img align="right" alt="Discord" width="21px" src="https://raw.githubusercontent.com/nikosszzz/nikosszzz/master/assets/discord.svg" />
+</a>
