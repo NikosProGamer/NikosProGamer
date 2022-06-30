@@ -23,10 +23,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikosszzz&repo=musicbot&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikosszzz&repo=musicbot&theme=gruvbox&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikosszzz&repo=windows-app&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikosszzz&repo=windows-app&theme=gruvbox&hide_border=true" />
 </a>
 
 <br />
