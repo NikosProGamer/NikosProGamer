@@ -22,10 +22,10 @@
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/nikosszzz/musicbot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikosszzz&repo=musicbot&theme=gruvbox&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/nikosszzz/windows-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikosszzz&repo=windows-app&theme=gruvbox&hide_border=true" />
 </a>
 
