@@ -19,7 +19,7 @@
 
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikosszzz&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&count_private=true&theme=dracula" alt="nikosszzz's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikosszzz&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikosszzz&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&count_private=true&theme=dracula" alt="nikosszzz's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikosszzz&show_icons=true&hide_border=true&hide_title=true&count_private=true&layout=compact&theme=dracula" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
