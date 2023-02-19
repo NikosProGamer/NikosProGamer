@@ -18,17 +18,18 @@
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikosszzz&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="nikosszzz's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikosszzz&layout=compact&theme=gruvbox&hide_border=true" /></a> |
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikosszzz&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&count_private=true&theme=dracula" alt="nikosszzz's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikosszzz&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/nikosszzz/musicbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikosszzz&repo=musicbot&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikosszzz&repo=musicbot&theme=dracula&hide_border=true" />
 </a>
 <a href="https://github.com/nikosszzz/windows-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikosszzz&repo=windows-app&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikosszzz&repo=windows-app&theme=dracula&hide_border=true" />
 </a>
 
 <br />
