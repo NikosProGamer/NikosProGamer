@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-** Top Repositories **
+**Top Repositories**
 
 <a href="https://github.com/nikosszzz/musicbot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikosszzz&repo=musicbot&theme=dracula&hide_border=true" />
