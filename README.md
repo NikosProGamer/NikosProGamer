@@ -7,9 +7,11 @@
 
 - 💬 Ask me about anything [here](https://github.com/nikosszzz/nikosszzz/issues).
 
+- 🌐 My website: https://nikosszzz.github.io/
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,electron,nextjs,nodejs,ts,js,html,css,linux,github,vscode,git,discord" />
+    <img src="https://skillicons.dev/icons?i=react,electron,nextjs,nodejs,ts,js,kotlin,html,css,linux,github,vscode,git,discord" />
   </a>
 </p>
 
