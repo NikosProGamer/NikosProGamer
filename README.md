@@ -48,3 +48,6 @@
 <a href="https://ko-fi.com/nikoszz">
   <img align="right" alt="Ko-fi" width="21px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png">
 </a>
+<a href="">
+  <img align="right" alt="Donate on PayPal" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/PayPal_Logo_Icon_2014.svg/1664px-PayPal_Logo_Icon_2014.svg.png">
+</a>
