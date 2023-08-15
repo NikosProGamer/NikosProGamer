@@ -1,4 +1,5 @@
 # nikoszz <img src="https://komarev.com/ghpvc/?username=nikosszzz&style=flat-square" alt="nikosszzz" /><br>
+<a href="https://liberapay.com/nikoszz/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 **About me**
 
