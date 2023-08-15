@@ -45,3 +45,6 @@
 <a href="https://discord.com/users/327065865201909762">
   <img align="right" alt="Discord" width="21px" src="https://skillicons.dev/icons?i=discord" />
 </a>
+<a href="https://ko-fi.com/nikoszz">
+  <img align="right" alt="Ko-fi" width="21px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png">
+</a>
