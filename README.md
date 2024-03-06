@@ -15,26 +15,6 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=nikosszzz&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikosszzz&show_icons=true&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula" />
-    </td>
-  </tr>
-</table>
-
-**Top Repositories**
-
-<a href="https://github.com/nikosszzz/musicbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikosszzz&repo=musicbot&theme=dracula&hide_border=true" />
-</a>
-<a href="https://github.com/nikosszzz/windows-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikosszzz&repo=windows-app&theme=dracula&hide_border=true" />
-</a>
-
 <br />
 <br />
 
