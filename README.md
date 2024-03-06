@@ -1,5 +1,4 @@
 # nikoszz <img src="https://komarev.com/ghpvc/?username=nikosszzz&style=flat-square" alt="nikosszzz" /><br>
-<a href="https://liberapay.com/nikoszz/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 **About me**
 
@@ -22,7 +21,7 @@
   <img align="right" alt="Twitter" width="21px" src="https://skillicons.dev/icons?i=twitter" />
 </a>
 <a href="https://discord.gg/QFvCUDydvV">
-  <img align="right" alt="Infinium - My Discord Bot" width="21px" src="https://cdn.discordapp.com/avatars/812605665143029770/a94a217cc669d51d4eb6781ad46f50ea.webp?size=80" />
+  <img align="right" alt="Infinium, My Discord Bot" width="21px" src="https://cdn.discordapp.com/avatars/812605665143029770/a94a217cc669d51d4eb6781ad46f50ea.webp?size=80" />
 </a>
 <a href="https://discord.com/users/327065865201909762">
   <img align="right" alt="Discord" width="21px" src="https://skillicons.dev/icons?i=discord" />
@@ -32,4 +31,7 @@
 </a>
 <a href="https://paypal.me/nikoszz">
   <img align="right" alt="Donate on PayPal" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/PayPal_Logo_Icon_2014.svg/1664px-PayPal_Logo_Icon_2014.svg.png">
+</a>
+<a href="https://liberapay.com/nikoszz/donate">
+  <img align="right" alt="Liberapay" width="21px" src= "https://nikosszzz.github.io/liberapayLogo.webp">
 </a>
